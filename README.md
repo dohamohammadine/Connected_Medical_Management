@@ -1,2 +1,2 @@
-# Connected_Medical_Management
-A comprehensive overview of the features, objectives, and architecture of a medical management application, reflecting a commitment to delivering innovative digital solutions to enhance the efficiency of the healthcare system.
+# Professional Communication Platform
+This project involves developing a Professional Communication Platform with messaging, voice calls, video conferencing, file sharing, and survey management features.
